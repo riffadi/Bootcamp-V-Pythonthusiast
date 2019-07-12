@@ -10,3 +10,8 @@ print(manusia)
 manusia['alamat'] = 'Jakarta'
 print(manusia)
 
+#introduction json
+import json
+print(json.dumps(manusia))
+
+
